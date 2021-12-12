@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KantuAPP</string>
+    <string name="text_ajustes">Ajustes</string>
+    <string name="text_lista">Lista</string>
+    <string name="text_categorias">Categorias</string>
+    <string name="text_inicio">Inicio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_main_title">Elige una opcion</string>
+    <string-array name="text_idiomas">
+        <item>Castellano</item>
+        <item>Euskara</item>
+        <item>English</item>
+    </string-array>
+</resources>
